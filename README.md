@@ -7,10 +7,10 @@ This repository is (obviously) the practice from the GitHub official get-started
 
 There are several projects I have in plan:
 
-- [ ] Build a personal website / website for fun to track my studying process: Guitar, Karate, Japanese, CS languages
+- Build a personal website / website for fun to track my studying process: Guitar, Karate, Japanese, CS languages
 
-- [ ] Practice LeetCode questions and refresh myself with computer science knowledge (seems like there are a lot of resources on GitHub!)
+- Practice LeetCode questions and refresh myself with computer science knowledge (seems like there are a lot of resources on GitHub!)
 
-- [ ] Try some algorithm trading (also a lot of resources on GitHub!)
+- Try some algorithm trading (also a lot of resources on GitHub!)
 
-- [ ] Build a (partial) private database to store and re-arrange words, articles and random thoughts I posted in past few years in different social network platforms and blogs
+- Build a (partial) private database to store and re-arrange words, articles and random thoughts I posted in past few years in different social network platforms and blogs
