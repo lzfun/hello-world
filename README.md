@@ -15,7 +15,7 @@ There are several projects I have in plan:
 
 - Build a (partial) private database to store and re-arrange words, articles and random thoughts I posted in past few years in different social network platforms and blogs
 
-#### 2018/8/16: Celebrating One Month On GitHub!
+#### 2019/8/16: Celebrating One Month On GitHub!
 
 Created this Octocat from official celebration email - 
 
