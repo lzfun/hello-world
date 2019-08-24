@@ -15,6 +15,11 @@ There are several projects I have in plan:
 
 - Build a (partial) private database to store and re-arrange words, articles and random thoughts I posted in past few years in different social network platforms and blogs
 
+#### 2019/8/24: Created [Reading List](readingList.md)
+
+I will use this markdown file to take reading notes.
+
+
 #### 2019/8/16: Celebrating One Month On GitHub!
 
 Created this Octocat from official celebration email - 
