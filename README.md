@@ -7,7 +7,7 @@ This repository is (obviously) the practice from the GitHub official get-started
 
 There are several projects I have in plan:
 
-- Build a personal website / website for fun to track my studying process for: Guitar, Karate, Japanese, CS languages
+- Build a blog / app for fun to track my studying process for: Cooking, Guitar, Karate, Japanese Language, CS languages
 
 - Practice LeetCode questions, refresh myself with computer science knowledge, learn new algorithms and techniques, and become a better computer scientist (seems like there are a lot of resources on GitHub!)
 
