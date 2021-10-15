@@ -15,6 +15,9 @@ There are several projects I have in plan:
 
 - Build a (partial) private database to store and re-arrange words, articles and random thoughts I posted in past few years in different social network platforms and blogs
 
+#### 202/10/14: Resuming this account
+Looking at the issues that are good for first timers and see if I can contribute to the open source community!
+
 #### 2019/8/24: Created [Reading List](readingList.md)
 
 I will use this markdown file to take reading notes.
